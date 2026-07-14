@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="200" viewBox="0 0 240 200"><rect width="240" height="200" fill="#f7f4ee"></rect>
+<g transform="translate(88,40)"><circle cx="32" cy="32" r="29" stroke="#3b342c" stroke-width="2.25" fill="none"></circle>
+<path d="M18 38 L32 24 L46 38" stroke="#3b342c" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" fill="none"></path>
+<path d="M18 46 L32 32 L46 46" stroke="#3b342c" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" fill="none"></path></g>
+<text x="120" y="140" font-family="Georgia, &#39;Newsreader&#39;, serif" font-size="28" font-weight="500" fill="#3b342c" text-anchor="middle">recrafted</text></svg>
